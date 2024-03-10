@@ -1,0 +1,43 @@
+body{
+    background: url(phonk.jpg);
+}
+.bl{
+    display: block;
+    text-align: center;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+    width: 40%;
+    height: 8%;
+    border-radius: 15px;
+    font-size: 40px;
+    margin-top: 150px;
+    font-family: "Pacifico", cursive;
+}
+.ba button{
+    background-color: aqua;
+    color: black;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    font-size: 30px;
+    box-shadow: 2px 2px 3px 2px;
+    margin-right: 60px;
+    position: relative;
+    left: 800px;
+    transition: all 0.3s ease-out;
+}
+.ba button :hover{
+    box-shadow: 0px 0px 0px 0px;
+}
+.poz{
+    width: 900px;
+    height: 580px;
+    background-color: rgb(254, 230, 230);
+    display: block;
+    text-align: center;
+    margin: auto;
+    border-radius: 15px;
+    font-size: 40px;
+    margin-top: 150px;
+    font-family: "Pacifico", cursive;
+}
